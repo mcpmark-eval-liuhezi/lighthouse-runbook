@@ -1,2 +1,3 @@
-# lighthouse-runbook
-Runbook and checklists for the Lighthouse rollout
+# Lighthouse Runbook
+
+Operational runbook for the Lighthouse service rollout.
